@@ -1,2 +1,2 @@
 # Cheatsheets
-Helped during my OSCP lab days.
+To help me do OSCP
